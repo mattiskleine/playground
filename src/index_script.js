@@ -1,5 +1,5 @@
 window.onload = function() {
-    var box = document.getElementById('box1');
+    var box = document.getElementById('box');
     box.addEventListener('mouseenter', hoverBox);
     box.addEventListener('mouseleave', unhoverBox);
 }
